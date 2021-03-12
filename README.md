@@ -4,7 +4,7 @@ Nice to meet ya!
 
 ##### *Facts about me*
 
-⏰ I'm studying basic bioinformatics, spanish, and tennis this semester
+⏰ I'm taking basic bioinformatics, spanish, and cell experiments this semester
 
 🌿 Recently I'm reading *The Greek Way* & *Stoner (Chinese ver.)*
 
