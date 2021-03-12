@@ -4,9 +4,13 @@ Nice to meet ya!
 
 *Facts about me*
 ⏰ I'm studying basic bioinformatics, spanish, and tennis this semester
+
 🌿 Recently I'm reading *The Greek Way* & *Stoner (Chinese ver.)*
+
 🎇 My favorite movie is *Gangster No.1*
-😢 I tend to procrastinate on school work
+
+😢 I tend to procrastinate on schoolwork
+
 ☁️ Cloudy days make me sad for no reason
 
 <!--
