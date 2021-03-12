@@ -1,5 +1,5 @@
 ### Hello World!
-I'm a biology major in Tsinghua University. Tang is my surname, and Candela is the name en español I picked for myself which means candle ✨
+I'm a biology major in Tsinghua University. Tang is my surname, and Candela is the name en español I picked for myself which means candle ✨  <br/>
 Nice to meet ya!
 
 *Facts about me*
